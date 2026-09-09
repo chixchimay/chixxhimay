@@ -33,14 +33,14 @@ body{margin:0;font-family:Arial;background:#0a0a0a;color:white;text-align:center
     <p>Capturing Moments, Creating Memories</p>
     <br>
     <a href="https://wa.me/91XXXXXXXXXX" class="btn btn-whatsapp">WhatsApp Me</a>
-    <a href="tel:+393420456306" class="btn btn-call">📞 Call Now</a>
+    <a href="tel:+39340456306" class="btn btn-call">📞 Call Now</a>
 </div>
 
 <div class="section">
-    <h2>📸 My Work</h2>
-ে</p>
+    <h2>📸 our Work</h2>
+    <p></p>
     <div class="gallery">
-        <img src="https://images.unsplash.com/photo-43e9-8032-2aaf53591ecc">
+        <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4">
         <img src="https://images.unsplash.com/photo-1469474968028-56623f02e42e">
         <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470">
         <img src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05">
@@ -51,15 +51,15 @@ body{margin:0;font-family:Arial;background:#0a0a0a;color:white;text-align:center
 
 <div class="section">
     <h2>🔗 Follow Me</h2>
-    <a href="https://instagram.com/saki_fakir" class="btn btn-insta">Instagram</a>
-    <a href="https://facebook.com/farhan ahamed sakib" class="btn btn-fb">Facebook</a>
+    <a href="https://instagram.com/YOUR_USERNAME" class="btn btn-insta">Instagram</a>
+    <a href="https://facebook.com/YOUR_USERNAME" class="btn btn-fb">Facebook</a>
 </div>
 
 <div class="contact-box">
     <h2>📞 Contact Me</h2>
-    <p>Booking per chiamare</p>
+    <p>Booking to captur any beautiful moment</p>
     <h3>+393420456306</h3>
-    <p>Gardone Val Trompia, Italy</p>
+    <p>reggio nell emili, Italy</p>
 </div>
 
 <p style="padding:20px;color:#555">© 2026 Chixx Photography</p>
