@@ -37,7 +37,7 @@ body{margin:0;font-family:Arial;background:#0a0a0a;color:white;text-align:center
 </div>
 
 <div class="section">
-    <h2>📸 our Work</h2>
+    <h2>📸my Work</h2>
     <p></p>
     <div class="gallery">
         <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4">
@@ -51,15 +51,15 @@ body{margin:0;font-family:Arial;background:#0a0a0a;color:white;text-align:center
 
 <div class="section">
     <h2>🔗 Follow Me</h2>
-    <a href="https://instagram.com/YOUR_USERNAME" class="btn btn-insta">Instagram</a>
-    <a href="https://facebook.com/YOUR_USERNAME" class="btn btn-fb">Facebook</a>
+    <a href="https://instagram.com/saki_fakir" class="btn btn-insta">Instagram</a>
+    <a href="https://facebook.com/farhan ahamed sakib" class="btn btn-fb">Facebook</a>
 </div>
 
 <div class="contact-box">
     <h2>📞 Contact Me</h2>
     <p>Booking to captur any beautiful moment</p>
     <h3>+393420456306</h3>
-    <p>reggio nell emili, Italy</p>
+    <p>Reggio Emilia, Italy</p>
 </div>
 
 <p style="padding:20px;color:#555">© 2026 Chixx Photography</p>
